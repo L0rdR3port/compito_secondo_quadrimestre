@@ -1,0 +1,1 @@
+int distanza(int a[], int x, int y, int n);

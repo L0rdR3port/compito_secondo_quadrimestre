@@ -1,0 +1,1 @@
+void inverti_stringa(char *stringa, int dim);
