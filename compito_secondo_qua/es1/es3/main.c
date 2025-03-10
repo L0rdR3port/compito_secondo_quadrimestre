@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-#define DIM_MACRO 
+#define DIM_MACRO(arr) (sizeof(arr) / sizeof((arr)[0]))
 
 int main(void){
         int a[100];
